@@ -1,3 +1,7 @@
+This is an undercover program for you to troll someone with a rickroll,
+
+
+
 The Program that imitates a Bsod was not me who did,
  I used the Bsod Simulator,
  made by FlyTech Videos and ALL credits of Bsod Simulator go to it.
